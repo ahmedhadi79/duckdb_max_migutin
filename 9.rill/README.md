@@ -42,6 +42,9 @@ https://learn.microsoft.com/en-us/windows/wsl/
 ```shell
 curl -s https://cdn.rilldata.com/install.sh | bash
 ```
+```
+rill start my-rill-project
+```
 
 2. Explore __sources/__ that we'll be working with in `sources/` directory.
 There're 4 cities => 4 .yaml files

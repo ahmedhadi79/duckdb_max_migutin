@@ -1,0 +1,1 @@
+{"name":"model","version":"1766427230399","created_version":"1766427230399","type":"VIEW","sql":"-- Model SQL\n-- Reference documentation: https://docs.rilldata.com/build/models\n\nSELECT 'Hello, World!' AS Greeting"}
